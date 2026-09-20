@@ -135,10 +135,18 @@ I can build anything in web and mobile — AI just helps me get there faster.
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+<!-- Contribution Snake -->
+## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daryldizon&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daryldizon/daryldizon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daryldizon/daryldizon/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/daryldizon/daryldizon/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
